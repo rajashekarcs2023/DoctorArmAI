@@ -10,7 +10,7 @@ Building Agent Acumen within a tight 36-hour timeframe required rapid innovation
 
 - **Advanced Robotics**: Developed a fully 3D printed, open-source robotic arm, specifically tailored for the healthcare environment, ensuring compliance with industry standards and adaptability for various medical tasks.
 
-- **Vision System**: Leveraging Google’s Gemini pro and Fetch.AI, the system captures images and overlays object centroids using OpenCV, facilitating precise interaction with objects found in healthcare settings.
+- **Vision System**: Leveraging Google’s Gemini pro and AI agent, the system captures images and overlays object centroids using OpenCV, facilitating precise interaction with objects found in healthcare settings.
 
 - **Semantic Execution**: Utilizes Gemini’s advanced semantic understanding to interpret user commands and facilitate decision-making for dynamic object manipulation.
 
@@ -33,8 +33,8 @@ Building Agent Acumen was an ambitious project that involved complex integration
   - Integrating sophisticated electronics, including motors, controllers, and sensors.
   - Managing complex wiring and circuit setups to ensure reliable connectivity and performance.
 
-- **Understanding and Implementing Fetch.AI**:
-  - Grasping the advanced concepts and frameworks provided by Fetch.AI.
+- **Understanding and Implementing**:
+  - Grasping the advanced concepts and frameworks provided by AI agents.
   - Customizing and deploying these AI solutions effectively within our system to handle real-time decisions.
 
 - **Prompt Engineering**:
